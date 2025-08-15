@@ -1,4 +1,6 @@
 # Ezequiel Silva
+## Sobre Mim
+ <p> Estudante de Analise e Desenvolvimento de sistemas ,apaixonado por tecnologia, com experiência prática em manutenção de computadores e projetos web.</p> 
 ## Conecte-se comigo
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ezequiel-dev-20)
 ## Habilidades
